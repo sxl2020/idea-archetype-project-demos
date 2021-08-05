@@ -52,7 +52,7 @@ File ----> New ----> Project -----> spring ----> 两个地方打勾，
 
 1.新建Maven项目，勾选Create from archetype,选择webapp
 
-![image-20210805223654489](/Users/suqiancheng/sxl2020/sxlSite/blog/source/_posts/docs/java-z-idea-projects/pics/004.png)
+![image-20210805223654489](./pics/004.png)
 
 上图中展示了不少的基于maven创建项目的模板。本次采用了webapp这个模板
 
